@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:test_demo_part/Hello8/homepage.dart';
+import 'Hello8/homepage.dart';
 
 void main() => runApp(Hello8());
 
@@ -17,7 +17,7 @@ void main() => runApp(Hello8());
 // }
 
 // * DEMO 8
-// * TEST HELLO8
+// * TEST HELLO
 class Hello8 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

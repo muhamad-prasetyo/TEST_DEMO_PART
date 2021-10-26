@@ -16,7 +16,7 @@ class HelloButton extends StatelessWidget {
   void action(BuildContext context) {
     var alertDialog = AlertDialog(
       title: Text('NOtifikasi'),
-      content: Text('Love You..'),
+      content: Text('Love You EVAAAA'),
     );
 
     showDialog(
